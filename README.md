@@ -1,4 +1,4 @@
-Gonzalo Fernandez
+<h1 align="center">Gonzalo Fernandez</h1>
 👋 Hello there! I'm Gonalo Fernandez, a professional with over 4 years of experience in project automation. I am passionate about learning new technologies and always seeking to broaden my skillset. I believe in the power of continuous innovation and I am eager to apply my knowledge and skills to make a meaningful impact.
 
 🛠 Skills and Technologies
