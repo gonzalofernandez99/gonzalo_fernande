@@ -3,11 +3,11 @@
 <h2 align="center">I am professional with over 4 years of experience in project automation. I am passionate about learning new technologies and always seeking to broaden my skillset. I believe in the power of continuous innovation and I am eager to apply my knowledge and skills to make a meaningful impact.</h3>
 
 <h3 align="left">🛠 Skills and Technologies</h3>
-<p align="left">- Robotic Process Automation (RPA): UiPath, Blue Prism </p>
-<p align="left">- Programming Languages: Python, VBScript, SQL, C++ </p>
-<p align="left">-Frameworks: RpaFramework (Robocorp), Flask </p>
-<p align="left">-Databases: Experienced in database management and operations</p>
-<p align="left">-My strong suit is in RPA, where I've been involved in automating tasks and processes using UiPath and Blue Prism. I'm proficient in Python, VBScript, SQL, and also have a good understanding of C++. On the framework side, I've worked with the RpaFramework from Robocorp and Flask.</p>
+<p align="left">-**Robotic Process Automation (RPA):** UiPath, Blue Prism </p>
+<p align="left">-**Programming Languages:** Python, VBScript, SQL, C++ </p>
+<p align="left">**-Frameworks:** RpaFramework (Robocorp), Flask </p>
+<p align="left">**-Databases:** Experienced in database management and operations</p>
+<p align="left">My strong suit is in RPA, where I've been involved in automating tasks and processes using UiPath and Blue Prism. I'm proficient in Python, VBScript, SQL, and also have a good understanding of C++. On the framework side, I've worked with the RpaFramework from Robocorp and Flask.</p>
 
 <h3 align="left">🔭 Current Focus</h3>
 Currently, I'm focused on expanding my knowledge in cutting-edge technologies and tools. I'm always open to opportunities where I can make good use of my skills while simultaneously learning something new.
