@@ -15,6 +15,11 @@ Currently, I'm focused on expanding my knowledge in cutting-edge technologies an
 <h3 align="left">🌱 What I Believe</h3>
 I believe that technology, when used creatively and thoughtfully, can bring about significant improvements in productivity and quality of life. I am committed to using my skills to contribute to this cause.
 
-<h3 align="left">📫 How to reach me</h3>
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/fernandez-gonzalo/) or email me at (fernandezgonzalo55@gmail.com).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/fernandez-gonzalo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-fernandez" height="30" width="40" /></a>
+</p>
+
+📫 How to reach me **fernandezgonzalo55@gmail.com**
+
 
